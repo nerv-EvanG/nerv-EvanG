@@ -1,36 +1,15 @@
-# ⚡ Ayush | Full-Stack Systems & AI-Ops Architect
+Ayush (nerv) | Full-Stack & Systems Engineer
 
-> **The rare engineer who understands the silicon, the cloud, and the intelligence running on top.**
+I’m an engineer focused on the intersection of low-level systems, cloud infrastructure, and AI-Ops. I enjoy building things that are efficient—from kernel-level optimizations to scalable cloud deployments.
 
----
+🛠 Technical Interests
 
-### 🛠️ Core Engineering: Low-Level & Kernel
-- **Kernel Mastery**: Specialized in **v7.0.0+ Stable Kernel** development and optimization for **AMD Zen 3 (Ryzen 5625U)**.
-- **Driver Engineering**: Experienced in modifying `vimc` subsystems and kernel-space C development.
-- **Upstream Standards**: Expert in Linux Foundation patching protocols, `checkpatch.pl` compliance, and `git` workflow.
+Systems & Kernel: Working with C and Linux Kernel development (v7.0.0+), specifically driver engineering and upstream patching protocols.
+Cloud & DevOps: Designing infrastructure on AWS using Terraform and Ansible. I focus on container orchestration with Kubernetes (Helm, Falco) and building secure CI/CD pipelines.
+AI-Ops: Building autonomous agents using LangChain/LangGraph and setting up system observability with Prometheus and Grafana.
 
-### ☁️ Cloud & DevOps Infrastructure
-- **Cloud Architecture**: Proficient in **AWS (SAA-C03)** and automated cloud scripting with **Python/Boto3**.
-- **Orchestration**: Expert-level knowledge in **Kubernetes (Helm, Falco)** and **Docker** for high-scale environments.
-- **Infrastructure as Code**: Managing complex stacks via **Terraform** and **Ansible**.
-- **CI/CD & Security**: Building automated pipelines with **GitHub Actions**, **Checkov**, and **Trivy** for DevSecOps.
+🧰 Tech Stack
 
-### 🤖 AI-Ops & Deep Learning
-- **LLM Applications**: Developing with **LangChain** and **LangGraph** for autonomous AI Agents.
-- **Observability**: Implementing **Prometheus** and **Grafana** for full-stack system monitoring.
-- **System Design**: Specialized in high-availability architecture and **Self-Healing AI-Ops stacks**.
-
----
-
-### 🧰 The "Evangelion-G" Tech Stack
-
-
-| Domain | Expert Tools |
-| :--- | :--- |
-| **OS & Kernel** | C, Make, Kbuild, GCC 15, x86_64 Arch |
-| **DevOps** | Kubernetes, Docker, Terraform, Helm, CI/CD |
-| **Cloud** | AWS, Boto3, Cloud Networking, Security |
-| **AI & Design** | LangChain, AI-Agents, System Design, AI-Ops, LangGraph |
-
----
-*“Optimizing from the Metal to the Cloud. Building the next generation of autonomous infrastructure.”*
+Languages & Tools: C, Python, Make, GCC, x86_64 Architecture.
+Infrastructure: AWS (SAA-C03), Kubernetes, Docker, Terraform, Boto3.
+AI & Monitoring: LangChain, AI Agents, Prometheus, Grafana, GitHub Actions.
