@@ -11,5 +11,5 @@ AI-Ops: Building autonomous agents using LangChain/LangGraph and setting up syst
 🧰 Tech Stack
 
 Languages & Tools: C, Python, Make, GCC, x86_64 Architecture.
-Infrastructure: AWS (SAA-C03), Kubernetes, Docker, Terraform, Boto3.
+Infrastructure: AWS, Kubernetes, Docker, Terraform, Boto3.
 AI & Monitoring: LangChain, AI Agents, Prometheus, Grafana, GitHub Actions.
