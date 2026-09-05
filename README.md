@@ -22,7 +22,6 @@ Currently a **Linux Foundation LFX Linux Kernel Summer 2026 Mentee**, working th
 Ayush Yaduvanshi
 handle   : nerv-EvanG
 focus    : systems / infrastructure / open source
-location : India
 status   : building in public
 ```
 
